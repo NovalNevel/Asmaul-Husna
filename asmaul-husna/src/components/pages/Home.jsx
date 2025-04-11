@@ -17,6 +17,8 @@ function Home() {
           <h1 className="cinzel-decorative-bold text-3xl font-bold text-blue-700">
             Asmaul Husna
           </h1>
+        </div>
+        <div className="flex justify-center items-center gap-4 mt-2 mb-4">
           <h2>by Nevel ❤️</h2>
         </div>
 
