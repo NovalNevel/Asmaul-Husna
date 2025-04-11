@@ -17,6 +17,7 @@ function Home() {
           <h1 className="cinzel-decorative-bold text-3xl font-bold text-blue-700">
             Asmaul Husna
           </h1>
+          <h2>by Nevel ❤️</h2>
         </div>
 
         {/* Navigasi utama */}
